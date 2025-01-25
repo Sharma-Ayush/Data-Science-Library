@@ -1,0 +1,3 @@
+This is the third line of the file.
+This line is being appended to test.txt
+And another line here.
