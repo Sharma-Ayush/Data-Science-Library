@@ -1,2 +1,2 @@
-# Data-Science-Portfolio
-A collection of all my data science related stuff
+# Data-Science-Library
+A collection of all my Data Science related stuff. You can find things like books, assignments, course materials, interview questions etc.
